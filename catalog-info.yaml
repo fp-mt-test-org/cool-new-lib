@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "cool-new-lib"
+  description: "cool-new-lib"
+  annotations:
+    github.com/project-slug: fp-mt-test-org/cool-new-lib
+    backstage.io/techdocs-ref: url:https://github.com/fp-mt-test-org/cool-new-lib
+    backstage.io/kubernetes-id: cool-new-lib
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "Product Infrastructure"
