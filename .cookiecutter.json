@@ -1,6 +1,7 @@
 {
-    "_template": "/tmp/8742d466-e26f-4d89-8564-808b66c0792b/template",
-    "access": "fp-mt",
+
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+
     "artifact_id": "cool-new-lib",
     "component_id": "cool-new-lib",
     "description": "cool-new-lib",
